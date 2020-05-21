@@ -15,7 +15,7 @@
 - TDS #6- [Domain IOC](https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07195101/Gcman-AttackAgainstFinancialInstitutions.ioc)
 - TDS #7- [Hash IOC](https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07195101/Gcman-AttackAgainstFinancialInstitutions.ioc)
 
-### TDS #1- Malicious connection through Putty
+### TDS #1- Malicious connection through Putty (EDITED BY SHWETA)
 Detecting this through Sysmon by monitoring event ID 3 for network connections using Putty and looking for malicious destinations IPs through Intel.
 
 ### TDS #2- Malicious connection through TeamViewer
